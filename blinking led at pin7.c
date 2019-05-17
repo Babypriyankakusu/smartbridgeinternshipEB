@@ -2,7 +2,7 @@
  * GccApplication1.c
  *
  * Created: 09-05-2019 14:14:56
- * Author : Hp
+ * Author : priyanka
  */ 
 #ifndef F_CPU
 #define F_CPU 16000000UL  //16MHz clock speed

@@ -2,7 +2,7 @@
  * PWM.c
  *
  * Created: 15-05-2019 11:31:49
- * Author : Hp
+ * Author : priyanka
  */ 
 #define F_CPU 8000000UL
 #include <avr/io.h>

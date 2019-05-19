@@ -2,7 +2,7 @@
  * GccApplication4.c
  *
  * Created: 10-05-2019 10:37:46
- * Author : Hp
+ * Author : priyanka
  */ 
 #ifndef F_CPU
 #define F_CPU 16000000

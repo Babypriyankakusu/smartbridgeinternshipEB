@@ -2,7 +2,7 @@
  * GccApplication12.c
  *
  * Created: 13-05-2019 09:52:18
- * Author : Hp
+ * Author : priyanka
  */ 
 #ifndef F_CPU
 #define F_CPU 16000000UL

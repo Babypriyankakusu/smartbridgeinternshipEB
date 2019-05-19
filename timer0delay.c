@@ -2,7 +2,7 @@
  * timer0 delay.c
  *
  * Created: 15-05-2019 10:32:15
- * Author : Hp
+ * Author : priyanka
  */ 
 
 #include <avr/io.h>

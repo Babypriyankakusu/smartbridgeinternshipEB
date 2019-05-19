@@ -2,7 +2,7 @@
  * GccApplication14.c
  *
  * Created: 13-05-2019 14:11:49
- * Author : Hp
+ * Author : priyanka
  */ 
 
 #include <avr/io.h>
